@@ -1,5 +1,5 @@
 # adaptive-machine-learning
-Adaptive Machine Learning-Assisted Noise Mitigation for BB84 Quantum distribution in Noisy Quantum Channels 
+Assisted Noise Mitigation for BB84 Quantum distribution in Noisy Quantum Channels 
 
 ## Abstract
 Quantum Key Distribution (QKD) offers a fundamentally secure method for cryptographic key exchange by leveraging the principles of quantum mechanics. Among existing QKD protocols, the BB84 protocol remains one of the most widely studied and implemented approaches. However, the performance and reliability of BB84 can be significantly degraded by quantum channel noise, resulting in increased Quantum Bit Error Rates (QBER) and reduced key generation efficiency. As quantum communication systems continue to evolve toward real-world deployment, intelligent methods for identifying and mitigating channel impairments are becoming increasingly important. 
